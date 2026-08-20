@@ -1,6 +1,6 @@
 🌒 DARKTRACER – Dark Web Threat Intelligence System
 
-         DARKTRACER is an AI-powered "Dark Web Threat Detection and Analysis System" built in Java that helps organizations detect, classify, and visualize sensitive data leaks from the dark web. It combines web crawling, NLP, and real-time alerting to track stolen credentials, exposed emails, and confidential data posted on dark web marketplaces and forums.
+DARKTRACER is an AI-powered "Dark Web Threat Detection and Analysis System" built in Java that helps organizations detect, classify, and visualize sensitive data leaks from the dark web. It combines web crawling, NLP, and real-time alerting to track stolen credentials, exposed emails, and confidential data posted on dark web marketplaces and forums.
 
   Key Features
 
